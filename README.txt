@@ -1,4 +1,4 @@
-Guide to using the TTV Component created by Michael Donohoe, Mary Mulready and Aisling Purdy, Group D
+Guide to using the TTV Component created by Michael Donohoe
 
 Input is given through arguments on the shell script run_ttv.sh
 
