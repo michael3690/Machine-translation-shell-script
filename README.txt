@@ -1,5 +1,4 @@
 Guide to using the TTV Component created by Michael Donohoe
-
 Input is given through arguments on the shell script run_ttv.sh
 
 Example input:
